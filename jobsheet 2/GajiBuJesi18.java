@@ -15,5 +15,7 @@ public class GajiBuJesi18{
         double Gaji = gaji + totalTunjangan - potongPensiun;
 
         System.out.println("Gaji bersih bu jesi = " + Gaji);
+
+        sc.close();
     }
 }
