@@ -9,7 +9,7 @@ public class cicilankoperasi18 {
         int jangkaWaktuPinjaman;
         int biayaAdmin;
         double jumlahUangYangDiterima;
-        double cicilanPerBulan;
+        double CicilanPerBulan;
         
         System.out.print("waktu pinjaman: ");
         jangkaWaktuPinjaman = input.nextInt();
