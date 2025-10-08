@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class CaseMethod18 {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        try (Scanner input = new Scanner(System.in)) {   
 
         System.out.println("INPUT DATA MAHASISWA");
         System.out.print("NAMA: ");
@@ -56,7 +56,7 @@ public class CaseMethod18 {
 
         System.out.printf("RATA-RATA NILAI AKHIR: %.2f%n", rataRata);
         System.out.println("keterangan Semester     : " + kelulusan);
-        input.close();
+        }
     }
         public static double hitungNilaiAkhir(double uts, double uas, double tugas) {
             return (0.3 * uts) + (0.4 * uas) + (0.3 * tugas);
@@ -73,6 +73,7 @@ public class CaseMethod18 {
                 return "D";
             } else {
                 return "E";
+                
             }
     }
 }
