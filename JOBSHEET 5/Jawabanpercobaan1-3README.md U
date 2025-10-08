@@ -1,0 +1,50 @@
+2.1 Praktikum 
+Percobaan 1: Penerapan IF dan IF-ELSE untuk Mencetak KRS 
+Pertanyaan 
+1. Mengapa pengecekan pada struktur IF tersebut tidak melibatkan kondisi dengan 
+   operator relasional? "Kondisi if hanya memeriksa nilai boolean langsung (true atau false) tanpa perlu perbandingan"
+2. Saat program dijalankan, kemudian Anda mengisikan nilai false, bagaimana hasilnya? "Hasilnya tidak ada"
+3. Sistem perlu memberikan informasi apabila pengguna memasukkan nilai false, maka 
+   terdapat keluaran “Registrasi ditolak. Silakan lunasi UKT terlebih dahulu”. Modifikasi 
+   program tersebut dengan menambahkan struktur ELSE! "SUDAH"
+4. Commit dan push hasil modifikasi Anda ke Github dengan pesan “Modifikasi 
+   Percobaan 1”  "SUDAH"
+
+
+2.2. PRAKTIKUM
+Percobaan 2: SWITCH-CASE untuk Mencetak KRS
+Pertanyaan 
+1. Apa fungsi dari sintaks break? "break digunakan untuk menghentikan eksekusi dari suatu perulangan (loop) atau blok switch-case secara paksa"
+2. Apa peran dari sintaks default pada struktur pemilihan SWITCH-CASE? default digunakan untuk menangani semua kondisi yang tidak sesuai dengan case yang ada"
+3. Buat file baru dengan nama ifElseCetakKRSNoPresensi.java. File ini berisi program hasil 
+   transformasi dari program cetak KRS menggunakan struktur SWITCH-CASE yang telah 
+   dibuat ke dalam bentuk IF-ELSE IF-ELSE. "SUDAH"
+4. Commit dan push hasil modifikasi Anda ke Github dengan pesan “Modifikasi 
+   Percobaan 2” "SUDAH"
+
+
+2.3. PRAKTIKUM
+Percobaan 3: Nested IF untuk Mengecek Syarat Ujian Skripsi 
+Pertanyaan 
+1. Apa yang terjadi jika mahasiswa menjawab "No" pada pertanyaan bebas kompen? 
+   Mengapa demikian? "MAKA MAHASISWA AKAN DIARAHKAN"
+2. Jelaskan maksud dari potongan kode berikut! 
+   "SYARAT MAHASISWA UNTUK MENDAFTAR SKRIPSI. SYARAT-SYARATNYA ADALAH MAHASISWA HARUS MENYELESAIKAN BIMBINGAN PEMBIMBING 1
+   SEBANYAK MINIMAL 8 KALI DAN BIMBINGAN OEMBIMBING 2 SEBANYAK 4 KALI"
+3. Bagaimana alur pemeriksaan syarat mahasiswa dari awal sampai akhir? Jelaskan secara 
+   runtut untuk semua kondisi! 
+   "MAHASISWA HARUS MENYELESAIKAN BIMBINGAN PEMBIMBING 1 SEBANYAK MINIMAL 8 KALI DAN BIMBINGAN OEMBIMBING 2 SEBANYAK 4 KALI"
+
+3. Tugas 
+   Waktu Pengerjaan Tugas: 120 menit 
+1. Buka kembali file ifCetakKRSNoPresensi.java, tambahkan baris baru di dalam fungsi main 
+   untuk melakukan transformasi program cetak KRS hasil modifikasi menggunakan struktur 
+   IF-ELSE yang telah dibuat ke dalam bentuk Ternary Operator! Commit dan push program 
+   Anda ke Github dengan pesan “Tugas 1”  "SUDAH"
+2. Perhatikan flowchart berikut. 
+   Implementasikan flowchart tersebut ke dalam kode program Java dengan struktur 
+   pemilihan IF-ELSE! Commit dan push program Anda ke Github dengan pesan “Tugas 2” "SUDAH"
+3. Implementasikan flowchart yang telah Anda buat untuk Latihan pada Tugas pertemuan 
+   5 Matakuliah Dasar Pemrograman terkait sistem perpustakaan dan akses WIFI kampus 
+   ke dalam kode program! Commit dan push program Anda ke Github dengan pesan 
+   “Tugas 3” "SUDAH
