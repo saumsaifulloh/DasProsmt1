@@ -18,7 +18,7 @@ public class JenisPenggunaWifi18 {
             String pilihan = input.next().toLowerCase();
 
             if (pilihan.equals("ya")) {
-            System.out.print("Masukkan jumlah SKS: ");
+               System.out.print("Masukkan jumlah SKS: ");
              int sks = input.nextInt();
             
             if (sks >=12) {
