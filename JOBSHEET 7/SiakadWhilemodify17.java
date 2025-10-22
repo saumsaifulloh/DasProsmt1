@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SiakadWhile17 {
+public class SiakadWhilemodify17 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double nilai,jml;
