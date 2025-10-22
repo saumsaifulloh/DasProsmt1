@@ -16,7 +16,6 @@ public class cicilankoperasi18 {
 
         System.out.print("biaya admin: ");
         biayaAdmin = input.nextInt();
-
-        // Tambahan logika bisa ditambahkan di bawah ini
+        
     }
 }

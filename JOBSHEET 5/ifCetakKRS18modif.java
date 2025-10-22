@@ -14,6 +14,6 @@ import java.util.Scanner;
         String Hasil = uktLunas ? "Pembayaran UKT terverifikasi? Silakan cetak KRS dan minta tanda tangan DPA" : "Registrasi ditolak. Silakan lunasi UKT terlebih dahulu.";
         System.out.println(Hasil);
 
-        input.close();
+        
     }
     }
