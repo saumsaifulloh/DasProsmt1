@@ -23,7 +23,6 @@ public class CicilanPakAli {
         // Hitung cicilan per bulan
         double sisaPembayaran = hargaMotor - uangMuka;
         double cicilanPerBulan = sisaPembayaran / lamaCicilan;
-
         System.out.printf("Jumlah cicilan per bulan yang harus dibayar Pak Ali adalah: Rp %.2f\n", cicilanPerBulan);
     }
 }

@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class cicilankoperasi18 {
+public class quiz {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int jangkaWaktuPinjaman;
